@@ -2,9 +2,7 @@
 
 
 ## Objective
-This hands-on laboratory exercise from PortSwigger Web Security Academy focuses on identifying and exploiting SQL injection vulnerabilities in web applications. The primary objective is to demonstrate how improperly sanitized user input can be manipulated to bypass authentication mechanisms, extract sensitive data from backend databases, and compromise application security. 
 
-Through this lab, I successfully exploited a SQL injection flaw in the application's login functionality by crafting malicious SQL queries that altered the intended logic of database commands. This practical exercise simulates real-world attack scenarios where attackers leverage SQL injection to gain unauthorized access to systems, retrieve confidential information, or modify database contents. The lab reinforced the critical importance of implementing secure coding practices, input validation, and parameterized queries to prevent SQL injection attacks in production environments.
 
 ## Skills Learned
 1. Reconnaissance & Information Gathering
