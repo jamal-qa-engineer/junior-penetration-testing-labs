@@ -2,7 +2,10 @@
 
 
 ## Objective
+🎯 Objective
 
+This repository documents my hands-on progression through the Junior Penetration Tester Pathway on TryHackMe.
+It focuses on developing real-world offensive security skills including reconnaissance, enumeration, vulnerability scanning, exploitation, privilege escalation, and basic reporting—aligned with entry-level penetration tester and security analyst roles.
 
 ## Skills Learned
 1. Reconnaissance & Information Gathering
